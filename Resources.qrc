@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/KSSA_Icon.png</file>
+        <file>image/server_back.jpg</file>
+    </qresource>
+</RCC>
